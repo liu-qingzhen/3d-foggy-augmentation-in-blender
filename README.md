@@ -6,5 +6,6 @@ Please change the world background image file to the appended .hdr image path, o
 If not loaded, the background would appear purple.
 
 Please ask me if there is any questions @liu_qingzhen@sjtu.edu.cn
+![demo](https://github.com/user-attachments/assets/623d6294-4ae0-41e5-a91b-22fa4fe9a78c)
 
 ![image](https://github.com/liu-qingzhen/3d-foggy-augmentation-in-blender/assets/70200053/de998851-29c4-4252-8aa6-7f5ed6fcbb23)
