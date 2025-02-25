@@ -1,6 +1,6 @@
 Download the blender first, version 3.4 recommended.
 Download the .blend file in google drive and open.
-https://drive.google.com/file/d/1apwzrQXo-UB2sfdf2d8_hAhBGAMcTvjS/view?usp=sharing.
+[https://drive.google.com/file/d/1apwzrQXo-UB2sfdf2d8_hAhBGAMcTvjS/view?usp=sharing](https://drive.google.com/file/d/1I_r5zH9BQSY3uWFXkJIxn9YhUVlLaE5A/view?usp=sharing).
 
 Please change the world background image file to the appended .hdr image path, or you can choose your own hdri file.
 If not loaded, the background would appear purple.
