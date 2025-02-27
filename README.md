@@ -5,6 +5,10 @@ Download the .blend file in google drive and open.
 Please change the world background image file to the appended .hdr image path, or you can choose your own hdri file.
 If not loaded, the background would appear purple.
 
+The rain effect is based on the project introduced by https://www.youtube.com/watch?v=UNwv-O7G8GU
+
+the snow effect is the embbed blender addon Real Snow. Click Edit->Preferences->Add-ons and search "real snow" and click it.
+
 Please ask me if there is any questions @liu_qingzhen@sjtu.edu.cn
 ![demo](https://github.com/user-attachments/assets/623d6294-4ae0-41e5-a91b-22fa4fe9a78c)
 
